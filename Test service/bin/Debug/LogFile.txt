@@ -1,0 +1,22 @@
+12/30/2019 3:44 PM: Start================
+12/30/2019 3:44 PM: System.Collections.Generic.List`1[Test_service.Model.tbl_Equipment_Transport]
+12/30/2019 3:46 PM: Success: Save to database FIH2019123004051 - 12/30/2019 3:46:26 PM
+12/30/2019 3:46 PM: Success: Send mail oke -12/30/2019 3:46:29 PM
+12/31/2019 9:14 AM: Start================
+12/31/2019 9:15 AM: Error: 12/31/2019 9:15:58 AM-System.IO.DirectoryNotFoundException: Could not find a part of the path 'E:\www\EquipmentRegistation\ImagesDownloaded\FIH20191230181120'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at System.IO.Directory.CreateDirectory(String path)
+   at Test_service.Service1.timer_Tick(Object sender, ElapsedEventArgs args) in C:\Users\v1517299\source\repos\Test service\Test service\Service1.cs:line 71
+12/31/2019 9:16 AM: Start================
+12/31/2019 9:17 AM: Error: 12/31/2019 9:17:10 AM-System.IO.DirectoryNotFoundException: Could not find a part of the path 'E:\www\EquipmentRegistation\ImagesDownloaded\FIH20191230181120'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at System.IO.Directory.CreateDirectory(String path)
+   at Test_service.Service1.timer_Tick(Object sender, ElapsedEventArgs args) in C:\Users\v1517299\source\repos\Test service\Test service\Service1.cs:line 71
+12/31/2019 9:17 AM: Start================
+12/31/2019 9:18 AM: True
+12/31/2019 9:18 AM: Success: Save to database FIH20191230181120 - 12/31/2019 9:18:33 AM
+12/31/2019 9:18 AM: Success: Send mail oke -12/31/2019 9:18:33 AM

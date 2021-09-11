@@ -1,0 +1,11 @@
+C:\Users\v1517299\source\repos\Test service\ReadMailData\bin\Debug\ReadMailData.dll.config
+C:\Users\v1517299\source\repos\Test service\ReadMailData\bin\Debug\ReadMailData.dll
+C:\Users\v1517299\source\repos\Test service\ReadMailData\bin\Debug\ReadMailData.pdb
+C:\Users\v1517299\source\repos\Test service\ReadMailData\bin\Debug\EntityFramework.dll
+C:\Users\v1517299\source\repos\Test service\ReadMailData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v1517299\source\repos\Test service\ReadMailData\bin\Debug\EntityFramework.xml
+C:\Users\v1517299\source\repos\Test service\ReadMailData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v1517299\source\repos\Test service\ReadMailData\obj\Debug\ReadMailData.csproj.CopyComplete
+C:\Users\v1517299\source\repos\Test service\ReadMailData\obj\Debug\ReadMailData.dll
+C:\Users\v1517299\source\repos\Test service\ReadMailData\obj\Debug\ReadMailData.pdb
+C:\Users\v1517299\source\repos\Test service\ReadMailData\obj\Debug\ReadMailData.csprojAssemblyReference.cache
